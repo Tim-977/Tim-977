@@ -1,16 +1,19 @@
-### Hi there 👋
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<!--
-**Tim-977/Tim-977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+class YandexLiceumStudent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Tim"
+        self.role = "Student"
+        self.language_spoken = ["ru_RU", "en_CA"]
+
+    def say_hi(self):
+        print("Hi there! Thanks for dropping by, hope you find some of my work interesting. I am always glad for feedback! :D")
+
+
+me = YandexLiceumStudent()
+me.say_hi()
+```
