@@ -1,8 +1,4 @@
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class YandexLiceumStudent:
 
     def __init__(self):
