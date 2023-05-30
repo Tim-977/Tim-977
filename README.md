@@ -15,6 +15,5 @@ me.say_hi()
 ```
 
 
->[GitHub](https://github.com/Tim-977)
 >[Telegram](https://t.me/timbrzm)
 >[Discord](https://discord.com/users/618793085735927808)
