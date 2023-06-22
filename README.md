@@ -1,5 +1,5 @@
 ```python
-class YandexLiceumStudent:
+class YandexStudent:
 
     def __init__(self):
         self.name = "Tim"
@@ -10,12 +10,13 @@ class YandexLiceumStudent:
         print("Hey there :]")
 
 
-me = YandexLiceumStudent()
+me = YandexStudent()
 me.say_hi()
 ```
 
 
 >[Telegram](https://t.me/timbrzm)
+<br>
 >[Discord](https://discord.com/users/618793085735927808)
 
 
