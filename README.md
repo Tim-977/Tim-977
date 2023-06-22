@@ -16,7 +16,6 @@ me.say_hi()
 
 
 >[Telegram](https://t.me/timbrzm)
-<br>
 >[Discord](https://discord.com/users/618793085735927808)
 
 
