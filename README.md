@@ -21,8 +21,8 @@ me.say_hi()
 
 <div align="center">
   
-    ![Most used languages](https://github-readme-stats.vercel.app/api?username=Tim-977&show_icons=true&theme=dracula&count_private=true)
-    <br>
-    ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-977&theme=dracula&hide=css,c%23)
+![Most used languages](https://github-readme-stats.vercel.app/api?username=Tim-977&show_icons=true&theme=dracula&count_private=true)
+<br>
+![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-977&theme=dracula&hide=css,c%23)
   
 </div>
