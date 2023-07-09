@@ -20,6 +20,7 @@ me.say_hi()
 
 
 <div align="center">
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-977&theme=dracula&hide=css,c%23)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-977)](https://github.com/Tim-977)
   
 </div>
