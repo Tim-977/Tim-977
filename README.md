@@ -7,7 +7,7 @@ class YandexStudent:
         self.language_spoken = ["ru_RU", "en_CA"]
 
     def say_hi(self):
-        print("Hey there :]")
+        print("Helo")
 
 
 me = YandexStudent()
