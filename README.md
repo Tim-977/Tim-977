@@ -2,7 +2,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-977)](https://github.com/Tim-977)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tim-977&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
   
 </div>
 
