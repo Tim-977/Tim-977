@@ -2,8 +2,8 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-977)](https://github.com/Tim-977)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-977&layout=compact&theme=radical)](https://github.com/Tim-977)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  
 </div>
 
 
