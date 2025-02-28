@@ -12,7 +12,6 @@
     <img src="https://avatars.githubusercontent.com/u/110126853?v=4" alt="My Avatar" width="4">
     <img src="https://avatars.githubusercontent.com/u/110126853?v=4" alt="My Avatar" width="2">
     <img src="https://avatars.githubusercontent.com/u/110126853?v=4" alt="My Avatar" width="1">
-    <img src="https://avatars.githubusercontent.com/u/110126853?v=4" alt="My Avatar" width="1">
 </p>
 
 </div>
