@@ -16,4 +16,7 @@
 
 </div>
 
-[Telegram](https://t.me/timbrzm)
+
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-blindtrainer%40proton.me-blue?style=for-the-badge&logo=protonmail)](mailto:blindtrainer@proton.me)
