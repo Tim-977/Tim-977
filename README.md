@@ -39,7 +39,7 @@
 
 - 🔗 **[Ecosystem](#)** — Life-tracking web app (Django + Vue.js + PostgreSQL)
 - 🤖 Cancer research anomaly detector PyTorch, Hackathon award
-- 📚 Vocabulary-learning app used across schools (Open source)
+- 📚 Vocabulary-learning app used across students (Open source)
 - 🧩 Blindfolded Rubik’s Cube Telegram bot and web widget with simple minimalist UI and progress tracking
 
 
