@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Timofei 👋</h1>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Z5BHdzMf/custom-terraria-logo(2).png' border='0' alt='custom-terraria-logo(2)'></a>
 
-## 👨‍💻 About Me
-
-- 🎓 First-year CS student at the **University of Toronto**
-- 🧠 Passionate about full-stack development and machine learning
-
 </br>
 
 ## 🔧 Tech Stack
